@@ -9,7 +9,6 @@ A React application built with TypeScript, Redux Toolkit, and RTK Query for expl
 
 ## how to run the application.
 
-- cd my-pokemon-app
 - npm install
 - npm run dev
 - for test: 
